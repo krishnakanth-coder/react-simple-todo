@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.container {
+  padding: 0px 20px 0px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-size: 15px;
+  padding: 10px;
+}
+.button {
+  color: #ff0b37;
+}
